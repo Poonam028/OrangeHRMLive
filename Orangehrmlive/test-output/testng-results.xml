@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-12T19:23:29 IST" name="Default suite" finished-at="2024-01-12T19:24:34 IST" duration-ms="64709">
+    <groups>
+    </groups>
+    <test started-at="2024-01-12T19:23:29 IST" name="Default test" finished-at="2024-01-12T19:24:34 IST" duration-ms="64709">
+      <class name="PageModel.Orangehrmlive.ExtentReport">
+        <test-method is-config="true" signature="config()[pri:0, instance:PageModel.Orangehrmlive.ExtentReport@48bb62]" started-at="2024-01-12T19:23:30 IST" name="config" finished-at="2024-01-12T19:23:32 IST" duration-ms="2137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="LoginPage()[pri:0, instance:PageModel.Orangehrmlive.ExtentReport@48bb62]" started-at="2024-01-12T19:23:32 IST" name="LoginPage" finished-at="2024-01-12T19:24:34 IST" duration-ms="62458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+      </class> <!-- PageModel.Orangehrmlive.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
